@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Mi historia
-permalink: /mi-historia/
+layout: post
+title:  "La historia del niño que quería destacar"
+date:   2015-10-13 18:27:46
+categories: personal CV
 ---
-
 Bienvenido, primeramente quiero presentarme.
 Soy Ivan, ingeniero informático nacido en el 1992, con espíritu joven y emprendedor, amante de nuevos retos y nuevas tecnologías.
 

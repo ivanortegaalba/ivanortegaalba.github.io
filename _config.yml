@@ -1,14 +1,16 @@
 # Site settings
-title: Ivan Programa
+title: Ivan Ortega Alba
 email: ivanortegaalba@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Soy ingeniero informático, amante del software libre y todo lo referente a tecnologías web,
+  TIC, seguridad y desarrollo de aplicaciones en Cloud.
+  Experiencia en HTML, CSS, JS, PHP, Python, Google App Engine, Web Security, y tecnologías relacionadas.
+  Para ver mis trabajos visitar Linkedin y mis repositorios en GitHub.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ivanortegaalba.github.io" # the base hostname & protocol for your site
 twitter_username: ivanortegaalba
 github_username:  ivanortegaalba
+linkedin_username: ivanortegaalba
 
 # Build settings
 markdown: kramdown
