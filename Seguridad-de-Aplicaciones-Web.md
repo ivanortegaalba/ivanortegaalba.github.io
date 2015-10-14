@@ -13,3 +13,8 @@ Lección 2: [https://github.com/ivanortegaalba/web-application-security/blob/mas
 Lección 3: [https://github.com/ivanortegaalba/web-application-security/blob/master/session3/session3.md](https://github.com/ivanortegaalba/web-application-security/blob/master/session3/session3.md)
 
 Lección 4: [https://github.com/ivanortegaalba/web-application-security/blob/master/session4/session4.md](https://github.com/ivanortegaalba/web-application-security/blob/master/session4/session4.md)
+
+*Esta información esta incompleta, el curso esta en construcción*
+***No dude en colaborar en todo lo que pueda mediante PullRequest en el repo:
+https://github.com/ivanortegaalba/web-application-security
+***
