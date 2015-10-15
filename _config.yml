@@ -14,3 +14,4 @@ linkedin_username: ivanortegaalba
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
